@@ -1,6 +1,6 @@
-#### protractor demo
+### protractor demo
 
-##### Prerequisites
+#### Prerequisites
 
 Install protractor
 
@@ -10,7 +10,7 @@ Start webdriver-manager
 
 `webdriver-manager start`
 
-##### How to run
+#### How to run
 
 Run the test
 
